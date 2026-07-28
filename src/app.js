@@ -6,5 +6,5 @@ module.exports = greet; // Ensure function is exportable
 
 // If run directly, print output (useful for debugging)
 if (require.main === module) {
-  console.log(greet("Hello, World From App!"));
+  console.log(greet("Hello Rehab "));
 }
